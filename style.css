@@ -1,0 +1,280 @@
+body {
+    background-color: black;
+}
+
+div {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 300px;
+}
+image {
+    width="550" height="500";
+}
+h1 {
+    font-family: Helvetica, sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px; vertical-align: bottom;
+    background-image: url(imagenes/FotoPersonal.jpeg); height: 600px; width: 600px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 360px;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px; vertical-align: bottom;
+}
+p {
+    font-family: verdana, sans-serif;
+    font-size: 25px;
+    color:rgb(255, 255, 255);
+    text-align: justify;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+    padding: 15px 15px 15px 15px;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: tahoma, sans-serif;
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-right: 150px;
+    margin-left: 70px;
+}
+
+li {
+    font-family: tahoma, sans-serif;
+    font-size: 25px;
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 70px;
+}
+
+ol {
+    font-family: tahoma, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 70px;
+}
+
+h4 {
+    font-family: arial, sans-serif;
+    background-color: rgb(202, 14, 14);
+    font-size: 20px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 650px;
+    margin-left: 70px;
+
+    border-style: double;
+    border-width: 5px;
+    border-color:rgb(77, 9, 9);
+    border-radius: 20px;
+    
+    padding: 15px 15px 15px 20px;
+}
+
+/*PÁGINA 2*/
+
+h2.dos {
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px; vertical-align: bottom;
+}
+
+table {
+    color: rgb(0, 0, 0);
+    font: tahoma, sans-serif;
+    text-align: center;
+    
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 190px;
+
+}
+
+th {
+    padding: 2px 2px 2px 2px;
+}
+th.uno {
+background-color: rgb(190, 16, 16);
+color:rgb(255, 255, 255)
+}
+
+th.dos {
+    background-color: rgb(240, 112, 21);
+    color: white;
+}
+td.dos {
+    background-color: rgb(241, 151, 86);
+    color: white;
+}
+
+th.tres {
+    background-color: rgb(115, 28, 150);
+    color: white;
+}
+td.tres {
+    background-color: rgb(151, 74, 182);
+    color: white;
+}
+
+th.cuatro {
+    background-color: rgb(41, 124, 179);
+    color: white;
+}
+td.cuatro {
+    background-color: rgb(110, 170, 238);
+    color: white;
+}
+
+th.cinco {
+    background-color: rgb(233, 47, 155);
+    color: white;
+}
+td.cinco {
+    background-color: rgb(240, 110, 186);
+    color:white;
+}
+
+h4.dos {
+    text-align: center;
+    font-family: arial, sans-serif;
+    background-color: rgb(255, 137, 27);
+    font-size: 20px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+    border-style: groove;
+    border-width: 5px;
+    border-color:rgb(161, 61, 2);
+    border-radius: 20px;
+    
+    padding: 15px 15px 15px 20px;
+}
+
+/*PÁGINA 3*/
+
+h2.tres {
+    font-family: Helvetica, sans-serif;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px; vertical-align: bottom;
+}
+
+h3.dos {
+    font-size: 40px;
+    font-family: tahoma, sans-serif;
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-right: 150px;
+    margin-left: 70px;
+}
+ul {
+    font-size: 30px;
+    text-indent: 5px;
+    text-decoration: underline;
+    font-family: tahoma, sans-serif;
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-right: 150px;
+    margin-left: 70px;
+}
+
+li.dos {
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: tahoma, sans-serif;
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-right: 150px;
+    margin-left: 70px;
+
+}
+
+ol.dos {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: tahoma, sans-serif;
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-right: 150px;
+    margin-left: 70px;
+}
+
+iframe {
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-right: 150px;
+    margin-left: 400px;
+}
+
+h4.tres {
+    text-align: center;
+    font-family: arial, sans-serif;
+    background-color: rgb(255, 186, 59);
+    font-size: 20px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 900px;
+
+    border-style: groove;
+    border-width: 5px;
+    border-color:rgb(184, 145, 16);
+    border-radius: 20px;
+    
+    padding: 15px 15px 15px 20px;
